@@ -58,7 +58,7 @@ Pré-requisitos: [Flutter SDK](https://docs.flutter.dev/get-started/install) ins
 ```bash
 # 1. Clonar o repositório
 git clone https://github.com/perezroris/EC_Cuidafacil.git
-cd cuida_facil
+cd EC_Cuidafacil
 
 # 2. Instalar as dependências
 flutter pub get
