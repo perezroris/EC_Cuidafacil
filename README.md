@@ -2,7 +2,7 @@
 
 Aplicativo mobile para dar mais autonomia e segurança a idosos que moram sozinhos ou com mobilidade reduzida, com alerta de emergência (SOS), lembretes de medicação, monitoramento de saúde via wearable e uma camada de **Logística Inteligente e Entrega 5.0** (Enterprise Challenge — Leroy Merlin).
 
-> Projeto acadêmico desenvolvido para o curso de Análise e Desenvolvimento de Sistemas — FIAP (2026), no contexto do projeto anual **Smart HAS** e do **Enterprise Challenge Leroy Merlin — Smart HAS AI Logistics Extension**.
+> Projeto acadêmico desenvolvido para o curso de Sistemas de informação — FIAP (2026), no contexto do projeto anual **Smart HAS** e do **Enterprise Challenge Leroy Merlin — Smart HAS AI Logistics Extension**.
 
 **Autor:** Thiago Perez Roris — RM 557921
 
@@ -107,4 +107,4 @@ Este é um produto acadêmico-profissional concluído dentro do escopo definido 
 
 ## 👤 Equipe
 
-**Thiago Perez Roris** — RM 557921 — FIAP, Análise e Desenvolvimento de Sistemas (2026)
+**Thiago Perez Roris** — RM 557921 — FIAP, Sistemas de informação (2026)
